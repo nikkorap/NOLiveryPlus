@@ -40,10 +40,16 @@ Image by Littlesneez
 	* In the Meshrender component, replace the `Materials` field with your own livery texture.
 	* Scroll down a bit to find the Materials settings.
 	* Add your texture to `Surface Inputs` -> `Base Map`
-	* To add emissions - enable the `Emission` checkbox, add your texture to `Emission Map`, and set the colour to white. (or mess with the material however you like, im not your mom. fun stuff i've found include making it transparent or adding the texture to `Height Map` to make the texture move with the camera for a neat effect. you can probably do some real funky stuff with all the different fields)
+	* Edit the material any way you like 
+		* To add emissions - enable the `Emission` checkbox, add your texture to `Emission Map`, and set the colour to white.
+		* Fun stuff i've found include making it transparent or adding the texture to `Height Map` to make the texture move with the camera for a neat effect. you can probably do some real funky stuff with all the different fields
 
-2. **IMPORTANT**
-	* Rename the prefab to have the **exact** same name as the livery you're trying to update. the name is used as a key to find the correct ingame livery to overwrite.
+
+# !! _________________ !!IMPORTANT!! _________________ !!
+** Rename the prefab to have the **exact** same name as the livery you're trying to update. the name is used as a key to find the correct ingame livery to overwrite.
+
+![liveryplustutorial1](https://github.com/user-attachments/assets/12bf33ec-f537-4406-9e19-e47e463e52b6)
+
 
 3. **Assign AssetBundle**:
 
