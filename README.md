@@ -1,6 +1,19 @@
 # NOLiveryPlus
 A BepInEx mod and unity editor tool combo for making Nuclear option Liveries with full control over the material
 
+# Mod installation
+
+1. **Installing BepInEx**
+   
+	* Download the correct version of BepInEx (bepinex 5 mono x64) [https://github.com/BepInEx/BepInEx]
+	* Extract the contents into the game root (where [NuclearOption.exe] lives)
+	* Start the game once to generate configuration files.
+
+2. **Installing liveryplus mod**
+	* drop the provided folder `LiveryPlus` in the folder [Nuclear Option\BepInEx\plugins]
+	* drop any additional `<liveryname>.liveryplus` assetbundle files in the `LiveryPlus` folder
+	* Subscribe to the liveries on the steam workshop.
+	
 # LiveryPlus Creation Guide
 
 ## Unity project Setup (same as the offical livery tool)
@@ -41,33 +54,21 @@ A BepInEx mod and unity editor tool combo for making Nuclear option Liveries wit
 	* Locate your file in the unity project folder: LiveryPlus/Assets/AssetBundles/<yourliveryfilename>.liveryplus
 
 Your liverybundle file is now ready. Put it in the same folder as the bepinex mod `liveryplus.dll`
-
-# Mod installation
-
-1. **Installing BepInEx**
-   
-	* Download the correct version of BepInEx (bepinex 5 mono x64) [https://github.com/BepInEx/BepInEx]
-	* Extract the contents into the game root (where [NuclearOption.exe] lives)
-	* Start the game once to generate configuration files.
-	* Open [Nuclear Option\BepInEx\config\BepInEx.cfg] and make sure that the setting [Chainloader] HideGameManagerObject = true.
-	* (optional) also edit [Logging.Console] Enabled = true.
-
-2. **Installing liveryplus mod**
-	* drop `liveryplus.dll` in the folder [Nuclear Option\BepInEx\plugins\liveryplus]
-	* drop any `<liveryname>.liveryplus` assetbundle files in the same folder
-	* Subscribe to relevant workshop liveries.
 	
 # CREDITS
-	* Nikkorap - Unity project and bepinex mod
+## Nikkorap
+* Unity project and bepinex mod
 	
-	* Offiry - Sample livery texture, testing, liveries
-	[offiry's 0th SW Revoker](https://steamcommunity.com/sharedfiles/filedetails/?id=3452644234)
-	[offiry's 0th SW Vortex](https://steamcommunity.com/sharedfiles/filedetails/?id=3452644393)
-	[offiry's 0th SW Ifrit](https://steamcommunity.com/sharedfiles/filedetails/?id=3452644584)
+## Offiry
+* Sample livery texture, testing, liveries:
+* [offiry's 0th SW Revoker](https://steamcommunity.com/sharedfiles/filedetails/?id=3452644234)
+* [offiry's 0th SW Vortex](https://steamcommunity.com/sharedfiles/filedetails/?id=3452644393)
+* [offiry's 0th SW Ifrit](https://steamcommunity.com/sharedfiles/filedetails/?id=3452644584)
 	
-	* Littlesneez - testing, liveries
-	["Air Tactical Orchestra" FS-12 Revoker](https://steamcommunity.com/sharedfiles/filedetails/?id=3472977541)
-	["Circuit" EW-25 Medusa](https://steamcommunity.com/sharedfiles/filedetails/?id=3494005532)
-	["Sneeze" KR-67 Ifrit](https://steamcommunity.com/sharedfiles/filedetails/?id=3465210615)
-	["CIT" KR-67 Ifrit](https://steamcommunity.com/sharedfiles/filedetails/?id=3465210309)
+## Littlesneez
+* testing, liveries:
+* ["Air Tactical Orchestra" FS-12 Revoker](https://steamcommunity.com/sharedfiles/filedetails/?id=3472977541) 
+* ["Circuit" EW-25 Medusa](https://steamcommunity.com/sharedfiles/filedetails/?id=3494005532) 
+* ["Sneeze" KR-67 Ifrit](https://steamcommunity.com/sharedfiles/filedetails/?id=3465210615) 
+* ["CIT" KR-67 Ifrit](https://steamcommunity.com/sharedfiles/filedetails/?id=3465210309)
 	
