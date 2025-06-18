@@ -63,6 +63,11 @@ Image by Littlesneez
 	* Clear the folder `LiveryPlus/Assets/AssetBundles` or unity might not actually build or update it.
 	* In Unity's top bar menu, click `liveryplus -> Build AssetBundle`.
 	* Locate your file in the unity project folder: `LiveryPlus/Assets/AssetBundles/<yourliveryfilename>.liveryplus`
+ 	* Note: the assetbundle creator creates 4 files, make sure you grab the correct one:
+  * `AssetBundles`
+  * `AssetBundles.manifest`
+  * `<yourliveryfilename>.liveryplus` <<<<< Correct file
+  * `<yourliveryfilename>.liveryplus.manifest`  
 
 Your liverybundle file is now ready. Put it in the same folder as the bepinex mod `liveryplus.dll`
 	
