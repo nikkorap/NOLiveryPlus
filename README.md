@@ -46,7 +46,8 @@ Image by Littlesneez
 
 
 # !! _________________ !!IMPORTANT!! _________________ !!
-** Rename the prefab to have the **exact** same name as the livery you're trying to update. the name is used as a key to find the correct ingame livery to overwrite.
+* Rename the prefab to have the **exact** same name as the livery you're trying to update. the name is used as a key to find the correct ingame livery to overwrite.
+* Want to know exactly what name the mod is looking for? install the mod, in its config settings, set "Output LiveryName to console" to true. then load the game, load your desired livery, and then in the `bepinex` folder, check the bottom of `consoleoutput.log` for a line similar to `[Debug  :liveryplus] no liveryplus found for COIN_skin_camo_temperate_b`, this is the exact name the mod is looking for
 
 ![liveryplustutorial1](https://github.com/user-attachments/assets/12bf33ec-f537-4406-9e19-e47e463e52b6)
 
