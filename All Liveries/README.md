@@ -1,10 +1,10 @@
 # Current list of all Liveryplus files and their workshop links
 
-* [offiry's 0th SW Revoker](https://steamcommunity.com/sharedfiles/filedetails/?id=3452644234)
-* [offiry's 0th SW Vortex](https://steamcommunity.com/sharedfiles/filedetails/?id=3452644393)
-* [offiry's 0th SW Ifrit](https://steamcommunity.com/sharedfiles/filedetails/?id=3452644584)
-* ["Air Tactical Orchestra" FS-12 Revoker](https://steamcommunity.com/sharedfiles/filedetails/?id=3472977541) 
-* ["Circuit" EW-25 Medusa](https://steamcommunity.com/sharedfiles/filedetails/?id=3494005532) 
-* ["Sneeze" KR-67 Ifrit](https://steamcommunity.com/sharedfiles/filedetails/?id=3465210615) 
-* ["CIT" KR-67 Ifrit](https://steamcommunity.com/sharedfiles/filedetails/?id=3465210309)
-* ["Electronic Rain" KR-67 Ifrit](https://steamcommunity.com/sharedfiles/filedetails/?id=3503136555)
+* offiry's 0th SW Revoker [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3452644234) [LiveryPlus](https://github.com/nikkorap/NOLiveryPlus/raw/refs/heads/master/All%20Liveries/livery%20files/sillies_fs12_offiry.liveryplus)
+* offiry's 0th SW Vortex [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3452644393) [LiveryPlus](https://github.com/nikkorap/NOLiveryPlus/raw/refs/heads/master/All%20Liveries/livery%20files/sillies_fs20_offiry.liveryplus)
+* offiry's 0th SW Ifrit [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3452644584) [LiveryPlus](https://github.com/nikkorap/NOLiveryPlus/raw/refs/heads/master/All%20Liveries/livery%20files/sillies_kr67_offiry.liveryplus)
+* "Air Tactical Orchestra" FS-12 Revoker [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3472977541) [LiveryPlus](https://github.com/nikkorap/NOLiveryPlus/raw/refs/heads/master/All%20Liveries/livery%20files/air%20tactical%20orchestra%20revoker.liveryplus)
+* "Circuit" EW-25 Medusa [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3494005532) [LiveryPlus](https://github.com/nikkorap/NOLiveryPlus/raw/refs/heads/master/All%20Liveries/livery%20files/cpu_medusa.1001.liveryplus)
+* "Sneeze" KR-67 Ifrit [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3465210615) [LiveryPlus](https://github.com/nikkorap/NOLiveryPlus/raw/refs/heads/master/All%20Liveries/livery%20files/sneezer%20ifrit.liveryplus)
+* "CIT" KR-67 Ifrit [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3465210309) [LiveryPlus](https://github.com/nikkorap/NOLiveryPlus/raw/refs/heads/master/All%20Liveries/livery%20files/cit%20ifrit.liveryplus)
+* "Electronic Rain" KR-67 Ifrit [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3503136555) [LiveryPlus](https://github.com/nikkorap/NOLiveryPlus/raw/refs/heads/master/All%20Liveries/livery%20files/rain%20ifrit.liveryplus)
