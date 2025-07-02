@@ -12,5 +12,6 @@
 * [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3465210309) [LiveryPlus](https://github.com/nikkorap/NOLiveryPlus/raw/refs/heads/master/All%20Liveries/livery%20files/cit%20ifrit.liveryplus) "CIT" KR-67 Ifrit
 * [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3503136555) [LiveryPlus](https://github.com/nikkorap/NOLiveryPlus/raw/refs/heads/master/All%20Liveries/livery%20files/rain%20ifrit.liveryplus) "Electronic Rain" KR-67 Ifrit
 * [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3506480757) [LiveryPlus](https://github.com/nikkorap/NOLiveryPlus/raw/refs/heads/master/All%20Liveries/livery%20files/rain_vortex.liveryplus) "Electronic Rain" FS-20 Vortex
+* [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3514234990) [LiveryPlus]() "PALAKat" KR-67 Ifrit
 
 
