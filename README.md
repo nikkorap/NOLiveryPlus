@@ -45,12 +45,15 @@ Image by Littlesneez
 		* Fun stuff i've found include making it transparent or adding the texture to `Height Map` to make the texture move with the camera for a neat effect. you can probably do some real funky stuff with all the different fields
 
 
-# !! _________________ !!IMPORTANT!! _________________ !!
+2. # !! _________________ !!IMPORTANT!! _________________ !!
 * Rename the prefab to have the **exact** same name as the livery you're trying to update. the name is used as a key to find the correct ingame livery to overwrite.
 * Want to know exactly what name the mod is looking for? install the mod, in its config settings, set "Output LiveryName to console" to true. then load the game, load your desired livery, and then in the `bepinex` folder, check the bottom of `consoleoutput.log` for a line similar to `[Debug  :liveryplus] no liveryplus found for COIN_skin_camo_temperate_b`, this is the exact name the mod is looking for
 
 ![liveryplustutorial1](https://github.com/user-attachments/assets/12bf33ec-f537-4406-9e19-e47e463e52b6)
 
+2.5 ## Medusa Radome
+	* if you want to add a custom texture to the medusa's radome, then create another prefab with a name tha ends in "__spinner" (note: there are 2 underscores)
+ 	* edit the material in the same way as the main prefab.
 
 3. **Assign AssetBundle**:
 
@@ -58,7 +61,8 @@ Image by Littlesneez
 	* In the inspector (lower-right), under 'AssetBundle', click the dropdown and select `New…`.
 		(If you don't see it, it might be hidden, in the lower edge of the inspector window is a bar `Example ============`, click on it)
 	* Name it something, preferably same to the livery name.
-	* Only 1 prefab per bundle is allowed.
+	* Only 1 prefab per bundle is allowed, except for the extra radome prefab.
+ 	* If you have a prefab object for the radome, assign it to the same assetbundle too. 
 
 4. **Build & Export**:
 	* Clear the folder `LiveryPlus/Assets/AssetBundles` or unity might not actually build or update it.
