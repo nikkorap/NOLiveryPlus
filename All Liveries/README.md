@@ -14,3 +14,5 @@
 * [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3506480757) [LiveryPlus](https://github.com/nikkorap/NOLiveryPlus/raw/refs/heads/master/All%20Liveries/livery%20files/rain_vortex.liveryplus) "Electronic Rain" FS-20 Vortex
 * [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3514234990) [LiveryPlus](https://github.com/nikkorap/NOLiveryPlus/raw/refs/heads/master/All%20Liveries/livery%20files/kat%20ifrit.liveryplus) "PALAKat" KR-67 Ifrit
 * [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3522555667) [LiveryPlus](https://github.com/nikkorap/NOLiveryPlus/raw/refs/heads/master/All%20Liveries/livery%20files/ato%20darkreach.liveryplus) "Air Tactical Orchestra" SFB-81 Darkreach
+* [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3532275931) [LiveryPlus](https://github.com/nikkorap/NOLiveryPlus/raw/refs/heads/master/All%20Liveries/livery%20files/ares.liveryplus) "Ares" KR-67 Ifrit
+
