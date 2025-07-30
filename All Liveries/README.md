@@ -16,3 +16,14 @@
 * [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3522555667) [LiveryPlus](https://github.com/nikkorap/NOLiveryPlus/raw/refs/heads/master/All%20Liveries/livery%20files/ato%20darkreach.liveryplus) "Air Tactical Orchestra" SFB-81 Darkreach
 * [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3532275931) [LiveryPlus](https://github.com/nikkorap/NOLiveryPlus/raw/refs/heads/master/All%20Liveries/livery%20files/ares.liveryplus) "Ares" KR-67 Ifrit
 
+
+## Nick the suggester
+* [Workshop]() [LiveryPlus]()
+* [Workshop]() [LiveryPlus]()
+* [Workshop]() [LiveryPlus]()
+* [Workshop]() [LiveryPlus]()
+* [Workshop]() [LiveryPlus]()
+* [Workshop]() [LiveryPlus]()
+* [Workshop]() [LiveryPlus]()
+* [Workshop]() [LiveryPlus]()
+* [Workshop]() [LiveryPlus]()
