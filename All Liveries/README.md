@@ -18,12 +18,12 @@
 
 
 ## Nick the suggester
-* [Workshop]() [LiveryPlus]()
-* [Workshop]() [LiveryPlus]()
-* [Workshop]() [LiveryPlus]()
-* [Workshop]() [LiveryPlus]()
-* [Workshop]() [LiveryPlus]()
-* [Workshop]() [LiveryPlus]()
-* [Workshop]() [LiveryPlus]()
-* [Workshop]() [LiveryPlus]()
-* [Workshop]() [LiveryPlus]()
+* [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3532035914) [LiveryPlus](https://github.com/nikkorap/NOLiveryPlus/raw/refs/heads/master/All%20Liveries/livery%20files/quadvtol1_paneloutlines.liveryplus) VL-49 - Skeletal
+* [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3532036206) [LiveryPlus](https://github.com/nikkorap/NOLiveryPlus/raw/refs/heads/master/All%20Liveries/livery%20files/smallfighter1_paneloutline.liveryplus) FS-20 - Skeletal
+* [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3532035647) [LiveryPlus](https://github.com/nikkorap/NOLiveryPlus/raw/refs/heads/master/All%20Liveries/livery%20files/fighter1_paneloutline.liveryplus) FS-12 - Skeletal
+* [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3532035363) [LiveryPlus](https://github.com/nikkorap/NOLiveryPlus/raw/refs/heads/master/All%20Liveries/livery%20files/ew1_paneloutlines.liveryplus) EW-25 - Skeletal
+* [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3532035092) [LiveryPlus](https://github.com/nikkorap/NOLiveryPlus/raw/refs/heads/master/All%20Liveries/livery%20files/multirole1_paneloutlines.liveryplus) KR-67 - Skeletal
+* [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3532034460) [LiveryPlus](https://github.com/nikkorap/NOLiveryPlus/raw/refs/heads/master/All%20Liveries/livery%20files/sfb1_paneloutlines.liveryplus) SFB-81 - Skeletal
+* [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3532034180) [LiveryPlus](https://github.com/nikkorap/NOLiveryPlus/raw/refs/heads/master/All%20Liveries/livery%20files/coin_paneloutlines.liveryplus) CI-22 - Skeletal
+* [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3532033906) [LiveryPlus](https://github.com/nikkorap/NOLiveryPlus/raw/refs/heads/master/All%20Liveries/livery%20files/trainer1_paneloutlines.liveryplus) T/A-30 - Skeletal
+* [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3532033450) [LiveryPlus](https://steamcommunity.com/sharedfiles/filedetails/?id=3532033450) SAH-46 - Skeletal
