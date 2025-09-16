@@ -16,6 +16,7 @@
 * [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3522555667) [LiveryPlus](https://github.com/nikkorap/NOLiveryPlus/raw/refs/heads/master/All%20Liveries/livery%20files/ato%20darkreach.liveryplus) "Air Tactical Orchestra" SFB-81 Darkreach
 * [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3532275931) [LiveryPlus](https://github.com/nikkorap/NOLiveryPlus/raw/refs/heads/master/All%20Liveries/livery%20files/ares.liveryplus) "Ares" KR-67 Ifrit
 * [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3448027888) [LiveryPlus](https://github.com/nikkorap/NOLiveryPlus/raw/refs/heads/master/All%20Liveries/livery%20files/mikuifrit.liveryplus) "Hatsune Miku" KR-67 Ifrit
+* [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3564836469) [LiveryPlus]() "Ares" SAH-46 Chicane
 
 
 ## Nick the suggester
@@ -28,4 +29,5 @@
 * [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3532034180) [LiveryPlus](https://github.com/nikkorap/NOLiveryPlus/raw/refs/heads/master/All%20Liveries/livery%20files/coin_paneloutlines.liveryplus) CI-22 - Skeletal
 * [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3532033906) [LiveryPlus](https://github.com/nikkorap/NOLiveryPlus/raw/refs/heads/master/All%20Liveries/livery%20files/trainer1_paneloutlines.liveryplus) T/A-30 - Skeletal
 * [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3532033450) [LiveryPlus](https://github.com/nikkorap/NOLiveryPlus/raw/refs/heads/master/All%20Liveries/livery%20files/attackhelo1_paneloutlines.liveryplus) SAH-46 - Skeletal
+
 
