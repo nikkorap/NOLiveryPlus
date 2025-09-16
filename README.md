@@ -1,5 +1,6 @@
 # NOLiveryPlus
-A BepInEx mod and unity editor tool combo for making Nuclear option Liveries with full control over the material
+A BepInEx mod and unity editor tool combo for making Nuclear option Liveries with full control over the material.   
+[Running list of published liveries can be found here](https://github.com/nikkorap/NOLiveryPlus/tree/master/All%20Liveries)
 
 
 ![liveryplusthumbnailbylittlesneez](https://github.com/user-attachments/assets/a0cefd2c-c772-48d7-9f96-43a6190907bd)
